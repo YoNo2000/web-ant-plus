@@ -1,6 +1,6 @@
 # web-ant-plus
 
-A package for ANT+ on Web browsers.
+A package for ANT+ on Web browsers. (Test)
 
 [![demo clip](https://user-images.githubusercontent.com/4495546/205473639-220061d6-4f0d-4929-9890-2f3dc28af2c7.png)](https://www.youtube.com/watch?v=3XKP9zcMnw8)
 
